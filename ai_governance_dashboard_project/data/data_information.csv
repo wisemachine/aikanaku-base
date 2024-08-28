@@ -1,0 +1,3 @@
+project_name,storage,location,access_list,size,cost
+Project 0,S3,dummy_loc,"User1, User 2",40Gb,10000.00
+Project 1,S3,dummy_loc,"User1, User 2",10Gb,1000.00

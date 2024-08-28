@@ -1,0 +1,7 @@
+
+Django>=4.0
+djangorestframework
+boto3
+jira
+psycopg2-binary
+python-dotenv
