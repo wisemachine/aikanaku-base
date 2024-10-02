@@ -5,3 +5,6 @@ boto3
 jira
 psycopg2-binary
 python-dotenv
+
+pandas
+streamlit
